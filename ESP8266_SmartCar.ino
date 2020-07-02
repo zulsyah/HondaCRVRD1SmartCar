@@ -14,10 +14,10 @@
  * made by Zulfhanizam Amir Syahputra, zulsyah7@gmail.com
  */
 
-char auth[] = "4OdxTxuPyWPEFRC7yYtIbxRap9xEXKmC";
+char auth[] = "Your Blynk Auth";
 
-char ssid[] = "Home WiFi@unifi";
-char pass[] = "zasin123";
+char ssid[] = "Your SSID";
+char pass[] = "Your WiFi password";
 
 SoftwareSerial gpsSerial(D3,D4);
 TinyGPSPlus gps;
