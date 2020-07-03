@@ -23,8 +23,7 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
-TinyGPS++ | Arduino | PCF8574 | Adafruit_ADS1015
------ | ----- | ----- | ----- |
+**TinyGPS++ | **Arduino** | **PCF8574** | **Adafruit_ADS1015**
 
 __________________________________________________________________________________________________________________
 
