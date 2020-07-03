@@ -1,7 +1,8 @@
 # Honda CRV RD1 SmartCar v1.0
 
 # Bahasa Melayu #
-Ini adalah kod Arduino yang saya gunakan pada projek saya
+
+Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino'
 
 **Senarai modul / sensor yang digunakan**
 
@@ -15,6 +16,8 @@ Bil | Nama modul  | Kuantiti | Pautan pembelian
 6 | ADS1115 16-bit Analog to Digital Converter | 1 | https://shopee.com.my/product/132528683/6917873642
 7 | PCF8574T I2C IIC Extension Board | 2 | https://shopee.com.my/product/132528683/5931423335
 8 | Voltage Sensor Module | 2 | https://shopee.com.my/product/132528683/2883120650
+9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
+10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
 
 
