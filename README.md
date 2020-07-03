@@ -3,7 +3,11 @@ by Zulfhanizam Amir Syahputra (AZ Putra)
 
 Youtube video link : https://youtu.be/yGgvV8Z005A
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yGgvV8Z005A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/yGgvV8Z005A">
+<p align="center"> 
+<img src="https://yt-embed.herokuapp.com/embed?v=yGgvV8Z005A">
+</p>
+</a>
 
 # Bahasa Melayu #
 
