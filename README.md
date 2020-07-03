@@ -1,4 +1,5 @@
 # Honda CRV RD1 SmartCar v1.0
+by Zulfhanizam Amir Syahputra (AZ Putra)
 
 # Bahasa Melayu #
 
@@ -45,3 +46,9 @@ No | Modules name | Quantity | Purchase links
 8 | Voltage Sensor Module | 2 | https://shopee.com.my/product/132528683/2883120650
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
+
+**List of libraries used**
+
+BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
+----- | ----- | ----- | ----- |
+**TinyGPS++** | **Arduino** | **PCF8574** | **Adafruit_ADS1015**
