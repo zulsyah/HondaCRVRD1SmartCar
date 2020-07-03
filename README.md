@@ -1,4 +1,4 @@
-# Honda CRV RD1 SmartCar version 1
+# Honda CRV RD1 SmartCar v1.0
 
 # Bahasa Melayu #
 Ini adalah kod Arduino yang saya gunakan pada projek saya
