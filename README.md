@@ -19,6 +19,11 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
+**Senarai perpustakaan yang digunakan**
+
+BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
+TinyGPS++ | Arduino | PCF8574 | Adafruit_ADS1015
+
 __________________________________________________________________________________________________________________
 
 # English #
