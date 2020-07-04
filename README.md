@@ -17,12 +17,12 @@ Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan jug
 
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino' manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama 'HondaCRV_RD1_smartcar.aia'.
 
-**Cara penggunaan sistem ini**
+### Cara penggunaan sistem ini
 
 1. Buka fail (.ino) menggunakan Arduino IDE
 2. Ubah nama WiFi dan katalaluan WiFi anda serta ubah Blynk token anda (sila rujuk Google untuk mencari token Blynk anda)
 
-'''java
+```java
 // Load the sub-image you want to find that appears in the image, respectively.
 BufferedImage subimage = ImageIO.read(new File("/tmp/sub_image.png"));
 BufferedImage image = ImageIO.read(new File("/tmp/image.png"));
@@ -37,9 +37,9 @@ if (match == null) {
 else {
   System.out.println("Found image at " + match.x + "," + match.y);
 }
-'''
+```
 
-**Senarai modul / sensor yang digunakan**
+### Senarai modul / sensor yang digunakan
 
 Bil | Nama modul | Kuantiti | Pautan pembelian
 ------------- | ------------- | ------------- | ------------- |
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 To download the code, please download file named 'ESP8266_SmartCar.ino'
 
-**List of sensors and modules that used in this project**
+### List of sensors and modules that used in this project
 
 No | Modules name | Quantity | Purchase links
 ------------- | ------------- | ------------- | ------------- |
@@ -81,7 +81,7 @@ No | Modules name | Quantity | Purchase links
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
-**List of libraries used**
+## List of libraries used
 
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
