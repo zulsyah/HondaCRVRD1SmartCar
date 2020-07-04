@@ -1,6 +1,7 @@
 # Honda CRV RD1 SmartCar v1.0
 by Zulfhanizam Amir Syahputra (AZ Putra)
 
+My other projects are in my digital CV : https://zulsyah7.wixsite.com/mycv
 Youtube video link : https://youtu.be/yGgvV8Z005A
 
 <a href="https://youtu.be/yGgvV8Z005A">
