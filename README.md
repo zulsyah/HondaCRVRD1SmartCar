@@ -20,23 +20,17 @@ Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_Smart
 ### Cara penggunaan sistem ini
 
 1. Buka fail (.ino) menggunakan Arduino IDE
-2. Ubah nama WiFi dan katalaluan WiFi anda serta ubah Blynk token anda (sila rujuk Google untuk mencari token Blynk anda)
+2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
+4. Daftar NodeMCU ESP8266 dan dapatkan token Blynk anda menggunakan aplikasi tersebut
+5. Ubah nama WiFi dan katalaluan WiFi anda serta ubah token Blynk yang anda perolehi tadi
 
 ```java
-// Load the sub-image you want to find that appears in the image, respectively.
-BufferedImage subimage = ImageIO.read(new File("/tmp/sub_image.png"));
-BufferedImage image = ImageIO.read(new File("/tmp/image.png"));
+//Token Blynk anda
+char auth[] = "Your Blynk Auth";
 
-// Attempt to find the match.
-Point match = FindImage.match(subimage, image);
-
-// If null, no match. Otherwise, show where the match occurred.
-if (match == null) {
-  System.out.println("No match found.");
-}
-else {
-  System.out.println("Found image at " + match.x + "," + match.y);
-}
+//Nama dan kataluan WiFi anda
+char ssid[] = "Your SSID";
+char pass[] = "Your WiFi password";
 ```
 
 ### Senarai modul / sensor yang digunakan
