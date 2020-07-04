@@ -11,18 +11,18 @@ Youtube video link : https://youtu.be/yGgvV8Z005A
 
 # Bahasa Melayu #
 
-Assalamualaikum, syukur ke hadrat ilahi kerana kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
+Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
 
 Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan juga fail (.aia) kepada penghasilan aplikasi yang saya bangunkan menggunakan MIT App Inventor.
 
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino' manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama 'HondaCRV_RD1_smartcar.aia'.
 
-## Cara penggunaan sistem ini
+### Cara penggunaan sistem ini
 
 1. Buka fail (.ino) menggunakan Arduino IDE
 2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
-4. Daftar NodeMCU ESP8266 dan dapatkan token Blynk anda menggunakan aplikasi tersebut
-5. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
+3. Daftar NodeMCU ESP8266 dan dapatkan token Blynk anda menggunakan aplikasi tersebut
+4. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
 
 ```java
 //Token Blynk anda
@@ -35,8 +35,9 @@ char pass[] = "Your WiFi password";
 5. Simpan dan muat naik kod tersebut ke ESP8266
 6. Buka fail (.aia) dengan mengimport ke MIT App Inventor
 7. Ubah token Blynk pada fail tersebut
+<img src="blob:https://web.telegram.org/3135a3e2-bd68-4d6d-b36f-f0b26a46a95a">
 
-## Senarai modul / sensor yang digunakan
+### Senarai modul / sensor yang digunakan
 
 Bil | Nama modul | Kuantiti | Pautan pembelian
 ------------- | ------------- | ------------- | ------------- |
@@ -51,7 +52,7 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
-## Senarai perpustakaan yang digunakan
+### Senarai perpustakaan yang digunakan
 
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
@@ -63,7 +64,7 @@ ________________________________________________________________________________
 
 To download the code, please download file named 'ESP8266_SmartCar.ino'
 
-## List of sensors and modules that used in this project
+### List of sensors and modules that used in this project
 
 No | Modules name | Quantity | Purchase links
 ------------- | ------------- | ------------- | ------------- |
@@ -78,7 +79,7 @@ No | Modules name | Quantity | Purchase links
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
-## List of libraries used
+### List of libraries used
 
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
