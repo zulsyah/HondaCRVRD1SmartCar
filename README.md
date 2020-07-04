@@ -17,7 +17,7 @@ Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat mengh
 
 Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan juga fail (.aia) kepada penghasilan aplikasi yang saya bangunkan menggunakan MIT App Inventor.
 
-Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino' manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama 'HondaCRV_RD1_smartcar.aia'.
+Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino` manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama `HondaCRV_RD1_smartcar.aia`.
 
 ### Cara penggunaan sistem ini
 
@@ -37,7 +37,12 @@ char pass[] = "Your WiFi password";
 5. Simpan dan muat naik kod tersebut ke ESP8266
 6. Buka fail `HondaCRV_RD1_smartcar.aia` dengan mengimport ke MIT App Inventor
 7. Cari `global token` dan ubah kepada token Blynk anda seperti dibawah
-<p align="centre" > <img src="https://imgur.com/xWP7rzB.jpg"> </p>
+<p align="centre"> <img src="https://imgur.com/xWP7rzB.jpg"> </p>
+
+### Antara muka pengguna aplikasi ini
+
+Aplikasi ini hanya mempunyai satu antara muka sahaja.
+<p align="centre"> <img src="https://imgur.com/Br1XMJ3.jpg"> </p>
 
 ### Senarai modul / sensor yang digunakan
 
