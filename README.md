@@ -42,7 +42,7 @@ char pass[] = "Your WiFi password";
 ### Antara muka pengguna aplikasi ini
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
-<p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg"> </p>
+<p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg" width="500" height="600"> </p>
 
 ### Senarai modul / sensor yang digunakan
 
