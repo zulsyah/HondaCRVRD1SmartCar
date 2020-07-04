@@ -37,12 +37,12 @@ char pass[] = "Your WiFi password";
 5. Simpan dan muat naik kod tersebut ke ESP8266
 6. Buka fail `HondaCRV_RD1_smartcar.aia` dengan mengimport ke MIT App Inventor
 7. Cari `global token` dan ubah kepada token Blynk anda seperti dibawah
-<p align="centre"> <img src="https://imgur.com/xWP7rzB.jpg"> </p>
+<p align="centre"> <img src="https://i.imgur.com/xWP7rzB.jpg"> </p>
 
 ### Antara muka pengguna aplikasi ini
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
-<p align="centre"> <img src="https://imgur.com/Br1XMJ3.jpg"> </p>
+<p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg"> </p>
 
 ### Senarai modul / sensor yang digunakan
 
