@@ -21,7 +21,7 @@ Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_Smart
 
 ### Cara penggunaan sistem ini
 
-1. Buka fail (.ino) menggunakan Arduino IDE
+1. Buka fail `ESP8266_SmartCar.ino` menggunakan Arduino IDE
 2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
 3. Daftarkan NodeMCU ESP8266 anda dan dapatkan token Blynk anda menggunakan aplikasi tersebut
 4. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
@@ -35,8 +35,8 @@ char ssid[] = "Your SSID";
 char pass[] = "Your WiFi password";
 ```
 5. Simpan dan muat naik kod tersebut ke ESP8266
-6. Buka fail (.aia) dengan mengimport ke MIT App Inventor
-7. Cari 'global token' dan ubah kepada token Blynk anda seperti dibawah
+6. Buka fail `HondaCRV_RD1_smartcar.aia` dengan mengimport ke MIT App Inventor
+7. Cari `global token` dan ubah kepada token Blynk anda seperti dibawah
 <p align="centre" > <img src="https://imgur.com/xWP7rzB.jpg"> </p>
 
 ### Senarai modul / sensor yang digunakan
