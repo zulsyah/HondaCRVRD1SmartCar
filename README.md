@@ -11,6 +11,10 @@ Youtube video link : https://youtu.be/yGgvV8Z005A
 
 # Bahasa Melayu #
 
+Assalamualaikum, syukur ke hadrat ilahi kerana kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
+
+Laman Github ini mengandungi kod sumber (source code) bagi module ESP8266 dan juga fail (.aia) kepada penghasilan aplikasi yang saya bangunkan menggunakan MIT App Inventor
+
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino'
 
 **Senarai modul / sensor yang digunakan**
