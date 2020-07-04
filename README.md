@@ -22,7 +22,7 @@ Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_Smart
 1. Buka fail (.ino) menggunakan Arduino IDE
 2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
 4. Daftar NodeMCU ESP8266 dan dapatkan token Blynk anda menggunakan aplikasi tersebut
-5. Ubah nama WiFi dan katalaluan WiFi anda serta ubah token Blynk yang anda perolehi tadi
+5. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
 
 ```java
 //Token Blynk anda
@@ -32,6 +32,9 @@ char auth[] = "Your Blynk Auth";
 char ssid[] = "Your SSID";
 char pass[] = "Your WiFi password";
 ```
+6. Simpan dan muat naik kod tersebut ke ESP8266
+7. Buka fail (.aia) dengan mengimport ke MIT App Inventor
+8. Ubah token Blynk pada fail tersebut
 
 ### Senarai modul / sensor yang digunakan
 
