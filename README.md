@@ -17,12 +17,12 @@ Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan jug
 
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama 'ESP8266_SmartCar.ino' manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama 'HondaCRV_RD1_smartcar.aia'.
 
-**Cara penggunaan sistem ini***
+**Cara penggunaan sistem ini**
 
 1. Buka fail (.ino) menggunakan Arduino IDE
 2. Ubah nama WiFi dan katalaluan WiFi anda serta ubah Blynk token anda (sila rujuk Google untuk mencari token Blynk anda)
 
-'''c++
+'''java
 // Load the sub-image you want to find that appears in the image, respectively.
 BufferedImage subimage = ImageIO.read(new File("/tmp/sub_image.png"));
 BufferedImage image = ImageIO.read(new File("/tmp/image.png"));
