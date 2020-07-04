@@ -35,7 +35,7 @@ char pass[] = "Your WiFi password";
 5. Simpan dan muat naik kod tersebut ke ESP8266
 6. Buka fail (.aia) dengan mengimport ke MIT App Inventor
 7. Ubah token Blynk pada fail tersebut
-<img src="blob:https://web.telegram.org/3135a3e2-bd68-4d6d-b36f-f0b26a46a95a">
+<img src="https://yt-embed.herokuapp.com/embed?v=yGgvV8Z005A">
 
 ### Senarai modul / sensor yang digunakan
 
