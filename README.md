@@ -15,10 +15,6 @@ Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan jug
 
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino` manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama `HondaCRV_RD1_smartcar.aia`.
 
-### Litar skematik dan cara pasang
-
-Anda boleh melihat litar skematik yang lengkap pada laman Instructable saya di https://www.instructables.com/Honda-CRV-RD1-SmartCar-V10/.
-
 ### Cara penggunaan sistem ini
 
 1. Buka fail `ESP8266_SmartCar.ino` menggunakan Arduino IDE
