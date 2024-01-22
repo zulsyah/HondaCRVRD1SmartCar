@@ -5,11 +5,7 @@ My other projects are in my digital CV : https://zulsyah7.wixsite.com/mycv
 
 Youtube video link : https://youtu.be/yGgvV8Z005A
 
-<a href="https://youtu.be/yGgvV8Z005A">
-<p align="center"> 
-<img src="https://yt-embed.herokuapp.com/embed?v=yGgvV8Z005A">
-</p>
-</a>
+[![Video](https://img.youtube.com/vi/yGgvV8Z005A/maxresdefault.jpg)](https://www.youtube.com/watch?v=yGgvV8Z005A)
 
 # Bahasa Melayu #
 
